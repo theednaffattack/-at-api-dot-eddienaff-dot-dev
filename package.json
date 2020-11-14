@@ -67,7 +67,7 @@
     "husky": "^4.2.3",
     "leaked-handles": "^5.2.0",
     "maketypes": "^1.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.4",
     "prettier": "^1.13.0",
     "rimraf": "^3.0.2",
